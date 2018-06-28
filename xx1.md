@@ -12,6 +12,6 @@ The website does not filter the parameters of the search bar, resulting in the e
 
 ![2](https://github.com/lzlzh2016/easymagazine/blob/master/2.png)
 
-![3](https://github.com/lzlzh2016/easymagazine/blob/master/3.png)
+![3](https://github.com/lzlzh2016/easymagazine/blob/master/212.png)
 
 Note: the vulnerability will be exploited by malicious users. 
